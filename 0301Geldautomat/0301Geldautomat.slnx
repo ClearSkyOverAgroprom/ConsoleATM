@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="0301Geldautomat/0301Geldautomat.csproj" />
+  <Project Path="ClassLibrary2/ClassLibrary2.csproj" />
+</Solution>
